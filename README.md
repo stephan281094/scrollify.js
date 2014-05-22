@@ -1,4 +1,4 @@
 scrollify.js
 ============
 
-A 4KB JavaScript library that disables parent scrolling
+A 4KB jQuery library that disables parent scrolling
