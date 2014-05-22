@@ -25,3 +25,6 @@ Unless you want to specify what element you want to disable for scrolling. To do
 ```javascript
 $('.scrollable').scrollify(".container");
 ```
+
+
+### [Live demo](http://jsfiddle.net/RsuLU/)
