@@ -8,8 +8,8 @@ When you reach the end of the div, the parent won't continue scrolling! :)
 
 
 ### How to use it
-- Define what elements you want to apply scrollify to by adding a class or id. It really doesn't matter how you call it.
-  In this example I use the class-name 'scrollable'
+Define what elements you want to apply scrollify to by adding a class or id. It really doesn't matter how you call it.
+In this example I use the class-name 'scrollable'
 ```html
 <div class="scrollable"></div>
 ```
