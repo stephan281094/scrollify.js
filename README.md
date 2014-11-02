@@ -1,4 +1,4 @@
-scrollify.js
+Scrollify.js
 ============
 A micro (0.263 kb) jQuery library that disables parent scrolling
 
