@@ -7,7 +7,7 @@ var $ = window.$;
 (function () {
   $.fn.scrollify = function (parentElement) {
     var $scope = $(this)
-    var $parentElement = parentElement == null ? 'body' : parentElement
+    var $parentElement = parentElement == null ? $('body') : $(parentElement)
 
     return $scope.hover(function () {
       if ($scope.get(0).scrollHeight > $scope.get(0).clientHeight) {
